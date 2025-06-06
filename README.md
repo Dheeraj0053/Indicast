@@ -42,10 +42,10 @@ Follow these steps to set up and run IndiCast locally:
 git clone <your-repository-url>
 cd indicast-weather-dashboard
 
-### 2. Install Dependencies
+2. Install Dependencies
 npm install
 
-**3. Run the Development Server**
+3. Run the Development Server
 npm run dev
 
 🧭 **Usage Guide**
