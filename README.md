@@ -4,7 +4,7 @@
 air quality information across major Indian cities. Designed with a responsive and glassmorphism-inspired UI, it ensures a seamless experience on all devices.
 
 > Project by
-> **Dheeraj Kumar Ambedkar** 
+> **Dheeraj Kumar Ambedkar** and 
 > **Yash Balan**
 
 ## ✨ Features
@@ -42,7 +42,7 @@ Follow these steps to set up and run IndiCast locally:
 git clone <your-repository-url>
 cd indicast-weather-dashboard
 
-**2. Install Dependencies**
+### 2. Install Dependencies
 npm install
 
 **3. Run the Development Server**
